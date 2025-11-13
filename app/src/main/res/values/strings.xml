@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PenaltyChaos</string>
+    <string name="jugador_2_0">Jugador 2: 0</string>
+    <string name="finalitzar_jugada">Finalitzar jugada</string>
+    <string name="xut">Xut ⚽</string>
+    <string name="parada">Parada 🧤</string>
+    <string name="tanda_de_penals_ronda_1_16">Tanda de penals - Ronda 1 / 16</string>
+    <string name="jugador_1_0">Jugador 1: 0</string>
+    <string name="item_cell">0</string>
+</resources>

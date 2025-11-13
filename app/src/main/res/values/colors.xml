@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#1E88E5</color>
+    <color name="primaryDarkColor">#1565C0</color>
+    <color name="accentColor">#FFC107</color>
+    <color name="backgroundColor">#8D00BCD4</color>
+    <color name="textColor">#212121</color>
+    <color name="btnFinalColor">#FFFFFF</color>
+    <color name="pointsTableColor">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
