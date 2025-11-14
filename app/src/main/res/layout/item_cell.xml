@@ -7,4 +7,6 @@
     android:layout_height="wrap_content"
     android:layout_margin="4dp"
     android:text="@string/item_cell"
-    android:textSize="50sp"/>
+    android:textSize="50sp"
+    android:clickable="true"
+    android:focusable="true"/>
