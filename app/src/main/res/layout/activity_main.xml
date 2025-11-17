@@ -61,7 +61,9 @@
             android:text="@string/xut"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="12dp"/>
+            android:layout_marginEnd="12dp"
+            app:strokeWidth="2dp"
+            app:strokeColor="@color/white"/>
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_save"

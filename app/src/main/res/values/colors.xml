@@ -7,5 +7,7 @@
     <color name="textColor">#212121</color>
     <color name="btnFinalColor">#FFFFFF</color>
     <color name="pointsTableColor">#FFFFFF</color>
+    <color name="selectedItem">#D12323</color>
     <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>

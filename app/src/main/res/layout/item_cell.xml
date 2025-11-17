@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.material.button.MaterialButton
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<com.google.android.material.button.MaterialButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/item_cell"
     style="@style/Widget.Material3.Button.OutlinedButton"
     android:layout_width="wrap_content"
@@ -9,4 +9,6 @@
     android:text="@string/item_cell"
     android:textSize="50sp"
     android:clickable="true"
-    android:focusable="true"/>
+    android:focusable="true"
+    app:strokeColor="@color/black"
+    app:strokeWidth="1dp"/>
