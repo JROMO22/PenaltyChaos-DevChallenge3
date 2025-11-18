@@ -14,5 +14,9 @@ class Utils {
         fun donarColor(context: Context, @ColorRes colorRes: Int): ColorStateList {
             return ColorStateList.valueOf(ContextCompat.getColor(context, colorRes))
         }
+
+        fun get_isUsed(cell: MaterialButton) {
+
+        }
     }
 }

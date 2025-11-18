@@ -2,7 +2,6 @@
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/game_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -56,7 +55,7 @@
         app:layout_constraintBottom_toTopOf="@id/btn_finish">
 
         <com.google.android.material.button.MaterialButton
-            android:id="@+id/btn_shot"
+            android:id="@+id/btn_action"
             style="@style/Widget.Material3.Button.TonalButton"
             android:text="@string/xut"
             android:layout_width="wrap_content"
@@ -64,13 +63,6 @@
             android:layout_marginEnd="12dp"
             app:strokeWidth="2dp"
             app:strokeColor="@color/white"/>
-
-        <com.google.android.material.button.MaterialButton
-            android:id="@+id/btn_save"
-            style="@style/Widget.Material3.Button.TonalButton"
-            android:text="@string/parada"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
     </LinearLayout>
 
     <!-- 🔹 Botón Finalizar -->
